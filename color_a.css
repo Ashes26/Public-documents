@@ -1,0 +1,122 @@
+#host{display: inline-block;
+    height: 2.4em;
+    padding: 4px 6px;
+    margin-bottom: .7em;
+    font-size: 16px;
+    line-height: 1.4em;
+    color: #777;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    vertical-align: middle;
+}
+    .button10 {
+    background-color: #348F50;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(to left, #348F50, #348F50);
+
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 3px 0px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button5 {
+    background-color: #7b4397;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(to left, #7b4397, #7b4397);
+    
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 3px 0px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button9 {
+    background-color: #f46b45;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(to left, #f46b45, #f46b45);
+
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 3px 0px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button7 {
+    background-color: #302b63;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(to left, #302b63, #302b63);
+    
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 3px 0px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button3 {
+  background-color: #008CBA;
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(to left, #2F80ED, #2F80ED);
+
+
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 3px 0px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button8 {
+    background-color: #CB356B;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(to left, #CB356B, #CB356B);
+    
+        border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 3px 0px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
