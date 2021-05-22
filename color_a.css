@@ -28,6 +28,13 @@
     transition-duration: 0.4s;
     cursor: pointer;
 }
+.button10:hover {
+  background-color: #348F50;
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(to left, #348F50, #348F50);
+  box-shadow: 0 4px 15px 0 rgba(60, 179, 113, 1.1);
+}
 .button5 {
     background-color: #7b4397;
     color: white;
@@ -45,6 +52,13 @@
     border-radius: 10px;
     transition-duration: 0.4s;
     cursor: pointer;
+}
+.button5:hover {
+  background-color: #7b4397;
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(to left, #7b4397, #7b4397);
+  box-shadow: 0 4px 15px 0 rgba(238, 130, 238, 1.1);
 }
 .button9 {
     background-color: #f46b45;
@@ -64,12 +78,18 @@
     transition-duration: 0.4s;
     cursor: pointer;
 }
+.button9:hover {
+  background-color: #CB356B;
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(to left, #f46b45, #f46b45);
+  box-shadow: 0 4px 15px 0 rgba(255, 165, 0, 1.1);
+}
 .button7 {
     background-color: #302b63;
     color: white;
     text-decoration: none;
     background-image: linear-gradient(to left, #302b63, #302b63);
-    
     border: none;
     color: white;
     padding: 5px 20px;
@@ -81,14 +101,19 @@
     border-radius: 10px;
     transition-duration: 0.4s;
     cursor: pointer;
+}
+.button7:hover {
+  background-color: #302b63;
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(to left, #302b63, #302b63);
+  box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 1.1);
 }
 .button3 {
   background-color: #008CBA;
   color: white;
   text-decoration: none;
   background-image: linear-gradient(to left, #2F80ED, #2F80ED);
-
-
     border: none;
     color: white;
     padding: 5px 20px;
@@ -101,7 +126,13 @@
     transition-duration: 0.4s;
     cursor: pointer;
 }
-
+.button3:hover {
+  background-color: #008CBA;
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(to left, #2F80ED, #2F80ED);
+  box-shadow: 0 4px 15px 0 rgba(0, 133, 255, 1.1);
+}
 .button8 {
     background-color: #CB356B;
     color: white;
@@ -119,4 +150,11 @@
     border-radius: 10px;
     transition-duration: 0.4s;
     cursor: pointer;
+}
+.button8:hover {
+  background-color: #CB356B;
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(to left, #CB356B, #CB356B);
+  box-shadow: 0 4px 15px 0 rgba(220, 80, 80, 1.1);
 }
